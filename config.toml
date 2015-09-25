@@ -1,0 +1,8 @@
+baseurl = "http://xcltapestry.github.io/"
+languageCode = "en-us"
+title = "GitHub Blog"
+theme = "Crisp"
+
+[params]
+    description = "这里是xcl的个人博客"
+    themeColor = "theme-base-08" 
